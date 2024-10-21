@@ -15,7 +15,7 @@
     "@polymer/polymer": "3.2.0",
     "@vaadin/flow-frontend": "./target/flow-frontend",
     "@vaadin/form": "./target/flow-frontend/form",
-    "@vaadin/router": "1.7.4",
+    "@vaadin/router": "2.0.0",
     "@vaadin/vaadin-accordion": "20.0.5",
     "@vaadin/vaadin-app-layout": "20.0.5",
     "@vaadin/vaadin-avatar": "20.0.5",
